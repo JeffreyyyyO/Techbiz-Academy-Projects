@@ -5,6 +5,10 @@
   <h3><img width="15" height="15" alt="shield(2)" src="https://github.com/user-attachments/assets/de672627-9503-420d-9e2c-8ebf0353afa8" /> Jeffrey Obi</h3>
 </div>
 
+## Disclaimer
+
+The projects in this repository were undertaken in response to prompts from a training program. They were all executed by me for educational and exhibition purposes only. All tools implemented in their execution were entirely self-owned and self-managed. All security and networking creations, deployments and configurations were undertaken inside virtually simulated and sand-boxed environments. No real security events, identities, production environments or attack victims were engaged while carrying out the projects. All contained screenshots are real evidence of work done, therefore they are original works, which along with all project documentation, constitute my intellectual property.
+
 ## Introduction
 
 The Techbiz Academy Internship is a densely-packed paced 6-week 18-module domain-based Cybersecurity training program. In November 2026, I simultaneously enrolled in both 'SOC Analyst' and 'CCNA' internship training programs for the challenge, and a refresher on the fundamentals.
@@ -38,7 +42,7 @@ This section contains the completed Cybersecurity & Networking projects from bot
 | **Week 6<br>Task 17** | Dec 17th | Hands-on Investigation (LetsDefend / CyberDefenders) | CCNA 200-301 Exam Preparation |
 | **Week 6<br>Task 18** | Dec 19th | CAPSTONE — Full Incident Investigation + Report | CAPSTONE — Design, Build and Document a Full Enterprise Network |
 
-## Challenges
+## Other Achievements
 
 This section covers other challenges and achievements from the programs.
 
