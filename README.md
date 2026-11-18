@@ -2,12 +2,12 @@
   <p><img src="./images/tba-logo-wordmark.png" alt="techbiz academy logo" style="display: block; margin: 0 auto;"></p>
   <h1>Techbiz Academy Projects</h1>
   <p>Executed by</p>
-  <h3><img width="18" height="18" alt="shield(2)" src="https://github.com/user-attachments/assets/de672627-9503-420d-9e2c-8ebf0353afa8" /> Jeffrey Obi</h3>
+  <h3><img width="15" height="15" alt="shield(2)" src="https://github.com/user-attachments/assets/de672627-9503-420d-9e2c-8ebf0353afa8" /> Jeffrey Obi</h3>
 </div>
 
 ## Introduction
 
-The Techbiz Academy Internship is a tightly-packed paced 6-week 18-module domain-based Cybersecurity training program. In November 2026, I simultaneously enrolled in both 'SOC Analyst' and 'CCNA' internship training programs for the challenge, and a refresher on the fundamentals.
+The Techbiz Academy Internship is a densely-packed paced 6-week 18-module domain-based Cybersecurity training program. In November 2026, I simultaneously enrolled in both 'SOC Analyst' and 'CCNA' internship training programs for the challenge, and a refresher on the fundamentals.
 
 | SOC Analyst Internship | CCNA Networking Internship |
 | :---: | :---: |
@@ -37,3 +37,8 @@ This section contains the completed Cybersecurity & Networking projects from bot
 | **Week 6<br>Task 16** | Dec 15th | Incident Response Process (NIST Phases) | Timed Troubleshooting — Fix a Network You Did Not Build |
 | **Week 6<br>Task 17** | Dec 17th | Hands-on Investigation (LetsDefend / CyberDefenders) | CCNA 200-301 Exam Preparation |
 | **Week 6<br>Task 18** | Dec 19th | CAPSTONE — Full Incident Investigation + Report | CAPSTONE — Design, Build and Document a Full Enterprise Network |
+
+## Challenges
+
+This section covers other challenges and achievements from the programs.
+
