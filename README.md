@@ -27,7 +27,7 @@ This section contains the completed Cybersecurity & Networking projects from bot
 | **Week 1<br>Task 2** | Nov 12th | [**Networking Basics for Defenders**](<./docs/SOC Week 1, Task 2 — Networking Basics for Defenders.pdf>) | [**IPv4 Addressing and Subnetting**](<./docs/CCNA Week 1, Task 2 — IPv4 Addressing and Subnetting.pdf>) |
 | **Week 1<br>Task 3** | Nov 14th | [**Lab Setup — VirtualBox + Kali/Ubuntu + Windows VM**](<./docs/SOC Week 1, Task 3 — Lab Setup — VirtualBox + Kali + Windows VM.pdf>) | [**The IOS Command Line, Interfaces and Recovery**](<./docs/CCNA Week 1, Task 3 — The IOS Command Line, Interfaces and Recovery.pdf>) |
 | **Week 2<br>Task 4** | Nov 17th | [**Linux Basics & Log Files**](<./docs/SOC Week 2, Task 4 — Linux Basics & Log Files.pdf>) | [**VLANs and Access Ports**](<./docs/CCNA Week 2, Task 4 — VLANs and Access Ports.pdf>) |
-| **Week 2<br>Task 5** | Nov 19th | Windows Logs & Event Viewer (Event IDs) | Trunking, 802.1Q and the Native VLAN |
+| **Week 2<br>Task 5** | Nov 19th | [**Windows Logs & Event Viewer (Event IDs)**](<./docs/SOC Week 2, Task 5 — Windows Logs & Event Viewer (Event IDs).pdf>) | Trunking, 802.1Q and the Native VLAN |
 | **Week 2<br>Task 6** | Nov 21th | Understanding Logs & Log Analysis Basics | Spanning Tree and EtherChannel |
 | **Week 3<br>Task 7** | Nov 24th | Malware Types & Common Attacks | Static and Default Routing |
 | **Week 3<br>Task 8** | Nov 26th | Cyber Kill Chain + MITRE ATT&CK Intro | OSPFv2 Single-Area |
